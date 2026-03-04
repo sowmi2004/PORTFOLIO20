@@ -1,0 +1,12 @@
+{
+  "name": "sowmiya-portfolio-static",
+  "version": "1.0.0",
+  "description": "Static personal portfolio for Sowmiya Devi built with HTML, Tailwind CSS, and TypeScript.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "build:watch": "tsc -p tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
